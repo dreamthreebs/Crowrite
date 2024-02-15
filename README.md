@@ -20,3 +20,11 @@ inside [ ] is the flag of the content:
 * different major categories of subjects
 * knowledge point small type
 
+## Categories
+the following categories could be searched.
+* COMPUTER
+* NOTES
+* QUOTES
+* METHODOLOGY
+* HTML LEARNING
+
