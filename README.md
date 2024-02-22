@@ -27,4 +27,6 @@ the following categories could be searched.
 * QUOTES
 * METHODOLOGY
 * HTML LEARNING
+* MARKDOWN LEARNING
+* PAPER
 
