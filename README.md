@@ -30,6 +30,7 @@ the following categories could be searched.
 * MARKDOWN LEARNING
 * PAPER
 * MATH
+* CMB
 
 CROW is the category that you can write without considering the subcategories, so it is relaxing to write.
 
