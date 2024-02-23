@@ -29,6 +29,7 @@ the following categories could be searched.
 * HTML LEARNING
 * MARKDOWN LEARNING
 * PAPER
+* MATH
 
-CROW is the category that you can write without considering the subcategories which is relaxed to write.
+CROW is the category that you can write without considering the subcategories, so it is relaxing to write.
 
