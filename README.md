@@ -20,6 +20,8 @@ inside [ ] is the flag of the content:
 * different major categories of subjects
 * knowledge point small type
 
+To ease the recording, difficulty level can be ignored
+
 ## Categories
 the following categories could be searched.
 * COMPUTER
