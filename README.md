@@ -30,3 +30,5 @@ the following categories could be searched.
 * MARKDOWN LEARNING
 * PAPER
 
+CROW is the category that you can write without considering the subcategories which is relaxed to write.
+
