@@ -36,3 +36,4 @@ the following categories could be searched.
 
 CROW is the category that you can write without considering the subcategories, so it is relaxing to write.
 
+MEMO is the category that you should be careful and might be useful in the future.
