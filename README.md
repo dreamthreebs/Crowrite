@@ -30,6 +30,7 @@ the following categories could be searched.
 * METHODOLOGY
 * HTML LEARNING
 * MARKDOWN LEARNING
+* PYTHON LEARNING
 * PAPER
 * MATH
 * CMB
