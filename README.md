@@ -25,12 +25,12 @@ To ease the recording, difficulty level can be ignored
 ## Categories
 the following categories could be searched.
 * COMPUTER
+    * PYTHON LEARNING
+    * HTML LEARNING
+    * MARKDOWN LEARNING
 * NOTES
 * QUOTES
 * METHODOLOGY
-* HTML LEARNING
-* MARKDOWN LEARNING
-* PYTHON LEARNING
 * PAPER
 * MATH
 * CMB
