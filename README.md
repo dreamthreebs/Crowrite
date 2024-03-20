@@ -43,4 +43,4 @@ BRAINSTORM: Write down your unmature idea. Although it's possible that it's just
 
 WHY: Ask everything. No one know everything but one can ask everything.
 
-TODO: FUTURE WORK if you are not well planed.
+TODO: Future work if you are not well planed.
