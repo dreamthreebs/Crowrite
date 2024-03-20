@@ -35,10 +35,12 @@ the following categories could be searched.
 * MATH
 * CMB
 
-CROW is the category that you can write without considering the subcategories, so it is relaxing to write.
+CROW: Write without considering the subcategories, so it is relaxing to write.
 
-MEMO is the category that you should be careful and might be useful in the future.
+MEMO: Be careful and might be useful in the future.
 
-BRAINSTORM is the category that you can write down your unmature idea. Although it's possible that it's just a whim, who knows?
+BRAINSTORM: Write down your unmature idea. Although it's possible that it's just a whim, who knows?
 
-WHY is the category that you can ask everything. No one know everything but one can ask everything.
+WHY: Ask everything. No one know everything but one can ask everything.
+
+TODO: FUTURE WORK if you are not well planed.
