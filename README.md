@@ -44,3 +44,9 @@ BRAINSTORM: Write down your unmature idea. Although it's possible that it's just
 WHY: Ask everything. No one know everything but one can ask everything.
 
 TODO: Future work if you are not well planed.
+
+ENGLISH WORD: English word learning, format is like:
+```markdown
+## ENGLISH WORD I
+* Word: English meaning
+```
