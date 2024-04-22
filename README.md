@@ -50,3 +50,5 @@ ENGLISH WORD: English word learning, format is like:
 ## ENGLISH WORD I
 * Word: English meaning
 ```
+
+REMARK: Some comments or annotations on Today's record.
