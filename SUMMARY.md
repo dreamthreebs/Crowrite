@@ -42,5 +42,6 @@
   * [0807-ps rmv brainstorm](2024/0807.md)
   * [0814-test-inline-formula](2024/0814-test-inline-formula.md)
   * [0814-healpy lon lat scope](2024/0814-healpy-lon-lat-scope.md)
+  * [0816-change $ to \$$](2024/0816-change-usd-to-usdusd.md)
 
 ## 2024-2025

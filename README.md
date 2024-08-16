@@ -1,12 +1,10 @@
-
 # Crowrite
 
 Stress-free note-taking by git
 
 ## Usage
 
-Someday, I will add a markdown file and record what I have learned. This markdown file will begin with date and each subtitle tell me what catogory the text belongs to.
-I will search the context by using simple grep command or ctrl+shift+f in vscode-like text editor.
+Someday, I will add a markdown file and record what I have learned. This markdown file will begin with date and each subtitle tell me what catogory the text belongs to. I will search the context by using simple grep command or ctrl+shift+f in vscode-like text editor.
 
 ## Learn deeper
 
@@ -14,7 +12,7 @@ I create this repo mainly to remember more things because my memory is terrible,
 
 ## Identifier
 
-inside [ ] is the flag of the content:
+inside \[ ] is the flag of the content:
 
 * EASY/MEDIUM/HARD/VERY HARD
 * different major categories of subjects
@@ -23,17 +21,20 @@ inside [ ] is the flag of the content:
 To ease the recording, difficulty level can be ignored
 
 ## Categories
+
 the following categories could be searched.
+
 * COMPUTER
-    * PYTHON LEARNING
-    * HTML LEARNING
-    * MARKDOWN LEARNING
+  * PYTHON LEARNING
+  * HTML LEARNING
+  * MARKDOWN LEARNING
 * NOTES
 * QUOTES
 * METHODOLOGY
 * PAPER
 * MATH
 * CMB
+* CODE
 
 CROW: Write without considering the subcategories, so it is relaxing to write.
 
@@ -46,6 +47,7 @@ WHY: Ask everything. No one know everything but one can ask everything.
 TODO: Future work if you are not well planed.
 
 ENGLISH WORD: English word learning, format is like:
+
 ```markdown
 ## ENGLISH WORD I
 * Word: English meaning
