@@ -43,5 +43,6 @@
   * [0814-test-inline-formula](2024/0814-test-inline-formula.md)
   * [0814-healpy lon lat scope](2024/0814-healpy-lon-lat-scope.md)
   * [0816-change $ to \$$](2024/0816-change-usd-to-usdusd.md)
+  * [0821-len() for np.ndarray](2024/0821-len-for-np.ndarray.md)
 
 ## 2024-2025
