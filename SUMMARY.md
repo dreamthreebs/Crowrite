@@ -45,5 +45,6 @@
   * [0816-change $ to \$$](2024/0816-change-usd-to-usdusd.md)
   * [0821-len() for np.ndarray](2024/0821-len-for-np.ndarray.md)
   * [0821-angdist snippets and hp.ang2pix lonlat range](2024/0821-angdist-snippets-and-hp.ang2pix-lonlat-range.md)
+  * [0823-same name of some variable](2024/0823-same-name-of-some-variable.md)
 
 ## 2024-2025
