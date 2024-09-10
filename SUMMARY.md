@@ -48,5 +48,6 @@
   * [0823-same name of some variable](2024/0823-same-name-of-some-variable.md)
   * [0828-purity and completeness](2024/0828-purity-and-completeness.md)
   * [0904-template fitting advantage over matched filter](2024/0904-template-fitting-advantage-over-matched-filter.md)
+  * [0910-FUTURE CODE](2024/0910-future-code.md)
 
 ## 2024-2025
