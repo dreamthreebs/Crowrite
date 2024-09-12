@@ -49,5 +49,6 @@
   * [0828-purity and completeness](2024/0828-purity-and-completeness.md)
   * [0904-template fitting advantage over matched filter](2024/0904-template-fitting-advantage-over-matched-filter.md)
   * [0910-FUTURE CODE](2024/0910-future-code.md)
+  * [0911-EB leakage test](2024/0911-eb-leakage-test.md)
 
 ## 2024-2025
