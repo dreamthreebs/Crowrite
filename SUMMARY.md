@@ -50,5 +50,6 @@
   * [0904-template fitting advantage over matched filter](2024/0904-template-fitting-advantage-over-matched-filter.md)
   * [0910-FUTURE CODE](2024/0910-future-code.md)
   * [0911-EB leakage test](2024/0911-eb-leakage-test.md)
+  * [0918-add prior to chi square fitting](2024/0918-add-prior-to-chi-square-fitting.md)
 
 ## 2024-2025
