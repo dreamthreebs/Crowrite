@@ -36,7 +36,7 @@ the following categories could be searched.
 * CMB
 * CODE
 
-CROW: Write without considering the subcategories, so it is relaxing to write.
+CROW: Write without considering the subcategories, so it is relaxing to write. (if not specified in some files, it is a CROW!)
 
 MEMO: Be careful and might be useful in the future.
 

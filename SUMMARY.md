@@ -52,5 +52,6 @@
   * [0911-EB leakage test](2024/0911-eb-leakage-test.md)
   * [0918-add prior to chi square fitting](2024/0918-add-prior-to-chi-square-fitting.md)
   * [0929-PS results comparison](2024/0929-ps-results-comparison.md)
+  * [1002-apodization](2024/1002-apodization.md)
 
 ## 2024-2025
