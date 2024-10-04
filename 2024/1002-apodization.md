@@ -8,3 +8,8 @@
 * try different mask apodization.
 * simulation by fg first.
 * see if lmax limited adding will cause some problem.
+
+## BRAINSTORM testing
+
+* if different lmax are applied the results will not change much expect for the last bin.
+* different mask apodization won't change the results a lot.
