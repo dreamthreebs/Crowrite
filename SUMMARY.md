@@ -53,5 +53,6 @@
   * [0918-add prior to chi square fitting](2024/0918-add-prior-to-chi-square-fitting.md)
   * [0929-PS results comparison](2024/0929-ps-results-comparison.md)
   * [1002-apodization](2024/1002-apodization.md)
+  * [1011-power spectrum estimation for partial sky](2024/1011-power-spectrum-estimation-for-partial-sky.md)
 
 ## 2024-2025
