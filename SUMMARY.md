@@ -56,5 +56,6 @@
   * [1011-power spectrum estimation for partial sky](2024/1011-power-spectrum-estimation-for-partial-sky.md)
   * [1015-215GHz](2024/1015-215ghz.md)
   * [1015-conference](2024/1015-conference.md)
+  * [1020-compare different method pipeline](2024/1020-compare-different-method-pipeline.md)
 
 ## 2024-2025
