@@ -57,6 +57,7 @@
   * [1015-215GHz and 95GHz / th noise power spectrum](2024/1015-215ghz-and-95ghz-th-noise-power-spectrum.md)
   * [1015-conference](2024/1015-conference.md)
   * [1020-compare different method pipeline](2024/1020-compare-different-method-pipeline.md)
+  * [1029-mask small scale structure](2024/1029-mask-small-scale-structure.md)
 
 ## Biophysics
 
