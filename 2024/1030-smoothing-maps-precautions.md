@@ -28,5 +28,5 @@ def check_sim():
     plt.show()
 ```
 
-
+2. on scalar map: if wanna smooth the map from 9arcmin or 30arcmin to 67 arcmin, a C1 2 degree map is enough, then you can add some C1 5 degree, the difference on map is 1e-10 per pixel, which is very low.
 

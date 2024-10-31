@@ -59,6 +59,7 @@
   * [1020-compare different method pipeline](2024/1020-compare-different-method-pipeline.md)
   * [1029-mask small scale structure](2024/1029-mask-small-scale-structure.md)
   * [1030-smoothing maps precautions](2024/1030-smoothing-maps-precautions.md)
+  * [1031-inpainting debug](2024/1031-inpainting-debug.md)
 
 ## Biophysics
 
