@@ -60,6 +60,7 @@
   * [1029-mask small scale structure](2024/1029-mask-small-scale-structure.md)
   * [1030-smoothing maps precautions](2024/1030-smoothing-maps-precautions.md)
   * [1031-inpainting debug](2024/1031-inpainting-debug.md)
+  * [1031-unit test](2024/1031-unit-test.md)
 
 ## Biophysics
 
