@@ -61,6 +61,8 @@
   * [1030-smoothing maps precautions](2024/1030-smoothing-maps-precautions.md)
   * [1031-inpainting debug](2024/1031-inpainting-debug.md)
   * [1031-unit test](2024/1031-unit-test.md)
+  * [1105-inpainting steps](2024/1105-inpainting-steps.md)
+  * [Page](2024/page.md)
 
 ## Biophysics
 
