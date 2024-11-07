@@ -66,4 +66,5 @@
 
 ## Biophysics
 
-* [Claycomb](biophysics/claycomb.md)
+* [Claycomb](biophysics/claycomb/README.md)
+  * [Terminology](biophysics/claycomb/terminology.md)
