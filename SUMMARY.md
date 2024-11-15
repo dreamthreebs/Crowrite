@@ -63,6 +63,7 @@
   * [1031-unit test](2024/1031-unit-test.md)
   * [1105-inpainting steps](2024/1105-inpainting-steps.md)
   * [1108-git tag](2024/1108-git-tag.md)
+  * [1114-cut how many number PS can give good estimate of other components](2024/1114-cut-how-many-number-ps-can-give-good-estimate-of-other-components.md)
 
 ## Biophysics
 
