@@ -66,6 +66,7 @@
   * [1114-cut how many number PS can give good estimate of other components](2024/1114-cut-how-many-number-ps-can-give-good-estimate-of-other-components.md)
   * [1118-nested title in markdown](2024/1118-nested-title-in-markdown.md)
   * [1122-some markdown format](2024/1122-some-markdown-format.md)
+  * [1202-lmax for maps](2024/1202-lmax-for-maps.md)
 
 ## Biophysics
 
