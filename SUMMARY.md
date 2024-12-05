@@ -68,6 +68,7 @@
   * [1122-some markdown format](2024/1122-some-markdown-format.md)
   * [1202-lmax for maps](2024/1202-lmax-for-maps.md)
   * [1203-theory noise level](2024/1203-theory-noise-level.md)
+  * [1205-python local variable](2024/1205-python-local-variable.md)
 
 ## Biophysics
 
