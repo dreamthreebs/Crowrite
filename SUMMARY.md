@@ -69,6 +69,7 @@
   * [1202-lmax for maps](2024/1202-lmax-for-maps.md)
   * [1203-theory noise level](2024/1203-theory-noise-level.md)
   * [1205-python local variable](2024/1205-python-local-variable.md)
+  * [1210-BAO](2024/1210-bao.md)
 
 ## Biophysics
 
