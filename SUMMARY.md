@@ -56,7 +56,7 @@
   * [1011-power spectrum estimation for partial sky](2024/1011-power-spectrum-estimation-for-partial-sky.md)
   * [1015-215GHz and 95GHz / th noise power spectrum](2024/1015-215ghz-and-95ghz-th-noise-power-spectrum.md)
   * [1015-conference](2024/1015-conference.md)
-  * [1020-compare different method pipeline](2024/1020-compare-different-method-pipeline.md)
+  * [1020-compare different method pipeline-star](2024/1020-compare-different-method-pipeline-star.md)
   * [1029-mask small scale structure](2024/1029-mask-small-scale-structure.md)
   * [1030-smoothing maps precautions](2024/1030-smoothing-maps-precautions.md)
   * [1031-inpainting debug](2024/1031-inpainting-debug.md)

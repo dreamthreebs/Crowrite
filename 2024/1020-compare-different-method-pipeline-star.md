@@ -1,4 +1,4 @@
-# 1020-compare different method pipeline
+# 1020-compare different method pipeline-star
 
 1. Extract diffuse foreground power spectrum from partial sky (compare it with other component)
 2. Find out threshold in T maps
@@ -13,5 +13,6 @@
 
 * 215GHz numerical error occur at 3500; calc at 3000;  power spectrum estimation on 2500. finally use up to 2000.  flux density error on T is 30.7mJy
 * 95GHz numerical error occur at 1600; calc at 1500; power spectrum estimation at 1000. finally use up to 720. flux density error on T is 154.2 mJy.
-* 30GHz numerical error occur at ?; calc at 500; power spectrum estimation at 500. finally use up to 2000. flux density error on T is 145.6 mJy.
+* 30GHz numerical error occur at ?; calc at 500; power spectrum estimation at 500. finally use up to 300. flux density error on T is 145.6 mJy.
+* 270GHz numerical error occur at 4500; calc at 4000;  power spectrum estimation on 3500. finally use up to 2400.  flux density error on T is ?mJy
 
