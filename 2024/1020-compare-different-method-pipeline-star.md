@@ -15,4 +15,5 @@
 * 95GHz numerical error occur at 1600; calc at 1500; power spectrum estimation at 1000. finally use up to 720. flux density error on T is 154.2 mJy.
 * 30GHz numerical error occur at ?; calc at 500; power spectrum estimation at 500. finally use up to 300. flux density error on T is 145.6 mJy.
 * 270GHz numerical error occur at 4500; calc at 4000;  power spectrum estimation on 3500. finally use up to 2400.  flux density error on T is ?mJy
+* 155GHz numerical error occur at 2500; calc at 2000;  power spectrum estimation on 1800. finally use up to 1270.  flux density error on T is ?mJy
 

@@ -70,6 +70,7 @@
   * [1203-theory noise level](2024/1203-theory-noise-level.md)
   * [1205-python local variable](2024/1205-python-local-variable.md)
   * [1210-BAO](2024/1210-bao.md)
+  * [1217-pandas index](2024/1217-pandas-index.md)
 
 ## Biophysics
 
