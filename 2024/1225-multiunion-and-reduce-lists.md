@@ -35,3 +35,7 @@ arrays = [arr1, arr2, arr3, arr4]
 union_result = multi_union1d(arrays)
 
 ```
+
+TODO
+
+remember to add different situation of point sources.
