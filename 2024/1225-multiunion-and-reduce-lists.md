@@ -33,6 +33,42 @@ arr4 = np.array([7, 8, 9])
 
 arrays = [arr1, arr2, arr3, arr4]
 union_result = multi_union1d(arrays)
+```
+
+```python
+def find_connected_components(lists):
+    # Convert lists to sets for easier manipulation
+    sets = [set(lst) for lst in lists]
+
+    # Keep track of which sets have been merged
+    merged = []
+    used = set()
+
+    # Check each set against other sets
+    for i, set1 in enumerate(sets):
+        if i in used:
+            continue
+
+        current = set1.copy()
+        used.add(i)
+
+        # Keep checking for connections until no more are found
+        changed = True
+        while changed:
+            changed = False
+            for j, set2 in enumerate(sets):
+                if j in used:
+                    continue
+
+                # If sets share any elements, merge them
+                if current & set2:
+                    current |= set2
+                    used.add(j)
+                    changed = True
+
+        merged.append(sorted(list(current)))
+
+    return merged
 
 ```
 
