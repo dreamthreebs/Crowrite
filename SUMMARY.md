@@ -2,6 +2,7 @@
 
 * [Crowrite](README.md)
 * [2025](2025/README.md)
+  * [0225-TODO](2025/0225-todo.md)
   * [0107-Convolution](2025/0107-convolution.md)
   * [0115-file saving](2025/0115-file-saving.md)
   * [0118-recycling method factor](2025/0118-recycling-method-factor.md)
