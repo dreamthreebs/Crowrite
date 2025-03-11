@@ -10,6 +10,7 @@
   * [0122-better way to use my own code](2025/0122-better-way-to-use-my-own-code.md)
   * [0124-r constraint](2025/0124-r-constraint.md)
   * [0128-new r constraint](2025/0128-new-r-constraint.md)
+  * [0311-MCA](2025/0311-mca.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
