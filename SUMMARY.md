@@ -35,14 +35,14 @@
   * [0326-Low-$\ell$ CMB analysis and inpainting Starck 2013](2024/0326.md)
   * [0328-Sparsity](2024/0328.md)
   * [0329-Morphological component analysis on the sphere](2024/0329.md)
-  * [0410-Planck 2018 V  Planck 2015 IX](2024/0410.md)
+  * [0410-Planck 2018 V Planck 2015 IX](2024/0410.md)
   * [0411- Fan region and Gum nebula, Coma and Virgo cluster](2024/0411.md)
   * [0417-vec.ctypes.data](2024/0417.md)
   * [0419-Stokes parameter](2024/0419.md)
   * [0430-PBH](2024/0430.md)
   * [0520-ACT Extragalactic Point Sources in the Southern Surveys at 150, 220 and 280 GHz](2024/0520.md)
   * [0521-Astrometry](2024/0521.md)
-  * [0522-AGN  Two-season ACTPol Extragalactic Point Sources and their Polarization properties](2024/0522.md)
+  * [0522-AGN Two-season ACTPol Extragalactic Point Sources and their Polarization properties](2024/0522.md)
   * [0523-classmethod and static method](2024/0523.md)
   * [0528-ACT DR5 maps of 18 000 square degrees of the microwave sky from ACT 2008-2018 data](2024/0528.md)
   * [0619-Gaussian profile](2024/0619.md)
@@ -87,3 +87,7 @@
 
 * [Claycomb](biophysics/claycomb/README.md)
   * [Terminology](biophysics/claycomb/terminology.md)
+
+## QUATA
+
+* [term](quata/term.md)
