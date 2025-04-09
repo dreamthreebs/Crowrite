@@ -5,4 +5,4 @@
 nl = (map_depth/bl)**2 / 3437.728**2
 ```
 
-<figure><img src="../.gitbook/assets/noise.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/noise.jpg" alt=""><figcaption></figcaption></figure>
