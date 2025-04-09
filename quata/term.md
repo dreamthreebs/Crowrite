@@ -8,4 +8,3 @@
 
 [聚宽（JoinQuant）](https://www.joinquant.com/study)[掘金（Myquant）](https://www.myquant.cn/)[Bigquant](https://bigquant.com/)  [米筐（Ricequant）](https://www.ricequant.com/welcome/)[真格量化](https://quant.pobo.net.cn/login#/)
 
-## 2.

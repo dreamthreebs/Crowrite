@@ -93,3 +93,8 @@
 ## QUATA
 
 * [term](quata/term.md)
+
+## PHYSICS
+
+* [LENPS](physics/lenps/README.md)
+  * [250409-peaks finder](physics/lenps/250409-peaks-finder.md)
