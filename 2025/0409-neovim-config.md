@@ -19,6 +19,10 @@ map("n", "sa", "0", { desc = "Go to beginning of line" })
 map("n", "sw", "gM", { desc = "Go to middle of screen line" })
 
 vim.g.mapleader = ","
+
+if vim.g.neovide then
+  vim.g.neovide_cursor_vfx_mode = { "railgun", "ripple" }
+end
 </code></pre>
 
 ## Avante.nvim
