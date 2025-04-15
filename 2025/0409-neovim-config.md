@@ -18,7 +18,11 @@ map("n", "sa", "0", { desc = "Go to beginning of line" })
 -- Go to middle of screen line
 map("n", "sw", "gM", { desc = "Go to middle of screen line" })
 
+-- Add to option.lua
 vim.g.mapleader = ","
+
+-- MarkdownPreviewToggle
+vim.api.nvim_set_keymap('n', '&#x3C;leader>mp', '&#x3C;cmd>MarkdownPreviewToggle&#x3C;CR>', { noremap = true, silent = true, desc = 'Toggle Markdown Preview'})
 
 if vim.g.neovide then
   vim.g.neovide_cursor_vfx_mode = { "railgun", "ripple" }
