@@ -8,6 +8,7 @@
   * [0331-PSM simulation](2025/0331-psm-simulation.md)
   * [0409-neovim-config](2025/0409-neovim-config.md)
   * [0415-git undo](2025/0415-git-undo.md)
+  * [0416-needlets](2025/0416-needlets.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
