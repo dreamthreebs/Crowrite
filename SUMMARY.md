@@ -59,6 +59,7 @@
 
 * [LENPS](physics/lenps/README.md)
   * [250409-peaks finder](physics/lenps/250409-peaks-finder.md)
+  * [250418-tSZ effect](physics/lenps/250418-tsz-effect.md)
 * [PSILC](physics/psilc/README.md)
   * [0221-Statistical properties of polarized radio sources at high frequency... arxiv:1003.5846](physics/psilc/0221.md)
   * [0223-Primordial B-mode Diagnostics and Self Calibrating the CMB Polarization arxiv:0912.3532](physics/psilc/0223.md)
