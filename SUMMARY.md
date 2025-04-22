@@ -10,6 +10,7 @@
   * [0415-git undo](2025/0415-git-undo.md)
   * [0416-needlets](2025/0416-needlets.md)
   * [0417-pytest](2025/0417-pytest.md)
+  * [0422-python import](2025/0422-python-import.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
