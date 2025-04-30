@@ -13,6 +13,7 @@
   * [0422-python import](2025/0422-python-import.md)
   * [0428-Radio galaxy](2025/0428-radio-galaxy.md)
   * [0429-DSFG](2025/0429-dsfg.md)
+  * [0430-confusion noise](2025/0430-confusion-noise.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
