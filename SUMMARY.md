@@ -15,6 +15,8 @@
   * [0429-DSFG](2025/0429-dsfg.md)
   * [0430-confusion noise](2025/0430-confusion-noise.md)
   * [0430-radio vs ir](2025/0430-radio-vs-ir.md)
+  * [0514-IWV & LWP](2025/0514-iwv-and-lwp.md)
+  * [0514-tod](2025/0514-tod.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
