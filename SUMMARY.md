@@ -15,9 +15,6 @@
   * [0429-DSFG](2025/0429-dsfg.md)
   * [0430-confusion noise](2025/0430-confusion-noise.md)
   * [0430-radio vs ir](2025/0430-radio-vs-ir.md)
-  * [0514-IWV & LWP](2025/0514-iwv-and-lwp.md)
-  * [0514-tod](2025/0514-tod.md)
-  * [0514-tod Chinese](2025/0514-tod-chinese.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
@@ -54,17 +51,12 @@
   * [1210-BAO](2024/1210-bao.md)
   * [1217-pandas index](2024/1217-pandas-index.md)
 
-## Biophysics
-
-* [Claycomb](biophysics/claycomb/README.md)
-  * [Terminology](biophysics/claycomb/terminology.md)
-
-## QUATA
-
-* [term](quata/term.md)
-
 ## PHYSICS
 
+* [TOD](physics/tod/README.md)
+  * [0514-IWV & LWP](physics/tod/0514-iwv-and-lwp.md)
+  * [0514-tod](physics/tod/0514-tod.md)
+  * [0514-tod Chinese](physics/tod/0514-tod-chinese.md)
 * [LENPS](physics/lenps/README.md)
   * [250409-peaks finder](physics/lenps/250409-peaks-finder.md)
   * [250418-tSZ effect](physics/lenps/250418-tsz-effect.md)
@@ -107,3 +99,12 @@
   * [250124-r constraint](physics/psilc/0124-r-constraint.md)
   * [250128-new r constraint](physics/psilc/0128-new-r-constraint.md)
   * [250225-TODO](physics/psilc/0225-todo.md)
+
+## Biophysics
+
+* [Claycomb](biophysics/claycomb/README.md)
+  * [Terminology](biophysics/claycomb/terminology.md)
+
+## QUATA
+
+* [term](quata/term.md)
