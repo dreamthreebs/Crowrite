@@ -101,6 +101,7 @@
   * [250124-r constraint](physics/psilc/0124-r-constraint.md)
   * [250128-new r constraint](physics/psilc/0128-new-r-constraint.md)
   * [250225-TODO](physics/psilc/0225-todo.md)
+  * [250524-paper outline](physics/psilc/250524-paper-outline.md)
 
 ## Biophysics
 
