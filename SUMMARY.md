@@ -16,6 +16,7 @@
   * [0430-confusion noise](2025/0430-confusion-noise.md)
   * [0430-radio vs ir](2025/0430-radio-vs-ir.md)
   * [0522-WMAP-PLANCK calibration](2025/0522-wmap-planck-calibration.md)
+  * [0612-MASTER-optimal](2025/0612-master-optimal.md)
   * [0612-MASTER](2025/0612-master.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
