@@ -20,6 +20,7 @@
   * [0612-MASTER](2025/0612-master.md)
   * [0617-宇宙学扰动理论](2025/0617-yu-zhou-xue-rao-dong-li-lun.md)
   * [0617-Tidal torque theory](2025/0617-tidal-torque-theory.md)
+  * [0617-CMB peak](2025/0617-cmb-peak.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
