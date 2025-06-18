@@ -230,3 +230,72 @@ P\[δM>δc]=12 erfc(δc2σM)\mathbb{P}\[\delta\_M > \delta\_c] = \frac{1}{2} \
 
 > **原始 PS 理论没考虑“云中云”的结构嵌套问题，导致低估结构数量，必须修正**。现代理论用随机游走（Excursion Set）等方法解决这个问题，得到更准确的质量函数。
 
+下面是**从 Press–Schechter (PS) 理论 到 Sheth–Tormen (ST) 修正模型**的总结说明
+
+***
+
+### 🧩 从 Press–Schechter 到 Sheth–Tormen 的结构形成模型总结
+
+***
+
+#### 🧠 背景目标
+
+Press–Schechter 理论用于预测宇宙中质量为 MM 的暗物质 halo 的数密度 dndM\frac{dn}{dM}，建立初始密度扰动与非线性结构形成的联系。
+
+***
+
+#### ✅ Press–Schechter 理论要点
+
+1.  假设光滑密度场 δM\delta\_M 是高斯分布：
+
+    P\[δM]=12πσMexp⁡(−δM22σM2)\mathbb{P}\[\delta\_M] = \frac{1}{\sqrt{2\pi}\sigma\_M} \exp\left( -\frac{\delta\_M^2}{2\sigma\_M^2} \right)
+2. 假设若 δM>δc\delta\_M > \delta\_c（临界密度，球对称塌缩模型得出 δc≈1.686\delta\_c \approx 1.686），区域将塌缩形成 halo。
+3.  得到塌缩概率：
+
+    P\[δM>δc]=12 erfc(δc2σM)\mathbb{P}\[\delta\_M > \delta\_c] = \frac{1}{2} \\, \text{erfc}\left( \frac{\delta\_c}{\sqrt{2}\sigma\_M} \right)
+4.  引入无量纲变量 ν=δc/σ(M)\nu = \delta\_c / \sigma(M)，定义 halo multiplicity function：
+
+    fPS(ν)=2πνe−ν2/2f\_{\text{PS\}}(\nu) = \sqrt{\frac{2}{\pi\}} \nu e^{-\nu^2/2}
+5.  得到质量函数：
+
+    dndM=ρˉM2fPS(ν)∣dln⁡σdln⁡M∣\frac{dn}{dM} = \frac{\bar{\rho\}}{M^2} f\_{\text{PS\}}(\nu) \left| \frac{d\ln \sigma}{d\ln M} \right|
+
+***
+
+#### ⚠ PS 理论的问题
+
+* 假设结构塌缩为完美球对称，不符合实际（真实 halo 是椭球形，受剪切扰动）
+* 在高质量端（大 ν\nu）**低估结构数量**，在低质量端也不够准确
+* 没有考虑环境依赖（如 tidal shear）
+
+***
+
+#### ✅ Sheth–Tormen 模型的修正
+
+Sheth & Tormen (1999) 基于椭球塌缩模型，提出经验拟合的修正 multiplicity function：
+
+fST(ν)=A2aπ\[1+(aν2)−p]νexp⁡(−aν22)f\_{\text{ST\}}(\nu) = A \sqrt{\frac{2a}{\pi\}} \left\[1 + (a\nu^2)^{-p} \right] \nu \exp\left( -\frac{a\nu^2}{2} \right)
+
+* A≈0.322A \approx 0.322（归一化系数）
+* a=0.75a = 0.75：控制指数衰减速度
+* p=0.3p = 0.3：控制低质量增强幅度
+
+***
+
+#### ✅ ST 模型的优势
+
+* 在**高质量端**抑制更慢，拟合 N-body 模拟更好
+* 在**低质量端**数量上升幅度更合理
+* 可导出更加精确的 halo bias 公式
+
+***
+
+#### 📌 总结对比（PS vs ST）
+
+| 项目            | Press–Schechter (PS)             | Sheth–Tormen (ST) |
+| ------------- | -------------------------------- | ----------------- |
+| 塌缩模型          | 球对称                              | 椭球（经验修正）          |
+| mass function | ∝νe−ν2/2\propto \nu e^{-\nu^2/2} | 修正项 + 指数更慢衰减      |
+| 参数自由度         | 无                                | A,a,pA, a, p：拟合得到 |
+| 精度            | 粗略估计                             | 精确拟合 N-body 模拟    |
+| bias 预测       | 有偏差                              | 精确 bias 模型可导出     |
