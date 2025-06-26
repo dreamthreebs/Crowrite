@@ -22,8 +22,5 @@ Template Fitting:  r: 均值 2.18e-3  标准差 2.45e-3
 
 Inpainting : r: 均值  1.05e-2 标准差 3.01e-3
 
-masking: r: 均值 3.03e-3 标准差 2.99e-3
+masking: r: 均值 3.08e-3 标准差 2.59e-3
 
-
-
-再算算3° apodization的
