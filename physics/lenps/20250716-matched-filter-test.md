@@ -4,5 +4,7 @@
 
 matched filter怎么估计噪声也要搞明白。
 
+以及怎么模拟tSZ的map出来，也要搞清楚
+
 
 
