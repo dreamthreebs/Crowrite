@@ -26,6 +26,7 @@
   * [0623-LSS](2025/0623-lss.md)
   * [0624-gitlab to github sync](2025/0624-gitlab-to-github-sync.md)
   * [0826-pmset](2025/0826-pmset.md)
+  * [0916-custom shaders in ghostty](2025/0916-custom-shaders-in-ghostty.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
