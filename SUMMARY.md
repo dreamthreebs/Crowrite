@@ -116,6 +116,7 @@
   * [250225-TODO](physics/psilc/0225-todo.md)
   * [250524-paper outline](physics/psilc/250524-paper-outline.md)
   * [250612-new r constraints](physics/psilc/250612-new-r-constraints.md)
+  * [251016-effective beam](physics/psilc/251016-effective-beam.md)
 
 ## Biophysics
 
