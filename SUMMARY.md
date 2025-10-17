@@ -118,6 +118,8 @@
   * [250612-new r constraints](physics/psilc/250612-new-r-constraints.md)
   * [251016-effective beam](physics/psilc/251016-effective-beam.md)
   * [251017-copolar and crosspolar](physics/psilc/251017-copolar-and-crosspolar.md)
+* [David Tong](physics/david-tong/README.md)
+  * [Classical mechanics](physics/david-tong/classical-mechanics.md)
 
 ## Biophysics
 
