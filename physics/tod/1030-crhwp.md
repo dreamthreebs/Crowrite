@@ -1,9 +1,5 @@
 # 1030-CRHWP
 
-好的，下面是一个**结构化、简洁且专业的笔记版本**，包括关键原理、公式和符号定义，适合直接放入科研笔记或论文附录中。
-
-***
-
 ### 🌀 Principle of the Continuously Rotating Half-Wave Plate (CRHWP)
 
 A **Continuously Rotating Half-Wave Plate (CRHWP)** is used in CMB polarization experiments to modulate and separate the Stokes parameters (I, Q, U).\
