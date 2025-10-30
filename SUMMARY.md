@@ -70,6 +70,7 @@
   * [0514-tod](2025/0514-tod.md)
   * [0514-tod Chinese](2025/0514-tod-chinese.md)
   * [0515-TODO](physics/tod/0515-todo.md)
+  * [1030-CRHWP](physics/tod/1030-crhwp.md)
 * [LENPS](physics/lenps/README.md)
   * [250409-peaks finder](physics/lenps/250409-peaks-finder.md)
   * [250418-tSZ effect](physics/lenps/250418-tsz-effect.md)
