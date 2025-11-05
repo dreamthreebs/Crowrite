@@ -28,6 +28,7 @@
   * [0826-pmset](2025/0826-pmset.md)
   * [0916-custom shaders in ghostty](2025/0916-custom-shaders-in-ghostty.md)
   * [1029-ssh](2025/1029-ssh.md)
+  * [1103-COV hartlap correction](2025/1103-cov-hartlap-correction.md)
 * [2024](2024/README.md)
   * [0209-Linux and git basic command](2024/0209.md)
   * [0213-How to take notes for research](2024/0213.md)
@@ -120,6 +121,7 @@
   * [250612-new r constraints](physics/psilc/250612-new-r-constraints.md)
   * [251016-effective beam](physics/psilc/251016-effective-beam.md)
   * [251017-copolar and crosspolar](physics/psilc/251017-copolar-and-crosspolar.md)
+  * [251105-R\_fit value](physics/psilc/251105-r_fit-value.md)
 * [David Tong](physics/david-tong/README.md)
   * [Classical mechanics](physics/david-tong/classical-mechanics.md)
 
