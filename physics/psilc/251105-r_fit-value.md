@@ -109,3 +109,7 @@ t(r) = e^{-r^2 / (2\sigma^2)}.\
 
 是否希望我帮你把这个版本导出成一份带渲染效果的 `.ipynb`（Jupyter Notebook）或 `.md` 文件？那样你直接 commit 到 GitHub 仓库里就能即看即用。
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-05 193146.png" alt=""><figcaption></figcaption></figure>
+
