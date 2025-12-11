@@ -125,6 +125,7 @@
   * [251105-R\_fit value](physics/psilc/251105-r_fit-value.md)
 * [David Tong](physics/david-tong/README.md)
   * [Classical mechanics](physics/david-tong/classical-mechanics.md)
+  * [Cosmology](physics/david-tong/cosmology.md)
 
 ## Biophysics
 
