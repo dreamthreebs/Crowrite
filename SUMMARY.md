@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Crowrite](README.md)
+* [2026](2026/README.md)
+  * [0215-gitworktree](2026/0215-gitworktree.md)
 * [2025](2025/README.md)
   * [0115-file saving](2025/0115-file-saving.md)
   * [0122-better way to use my own code](2025/0122-better-way-to-use-my-own-code.md)
